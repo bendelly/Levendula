@@ -1,0 +1,51 @@
+body{
+	background-image: url("../img/hatter.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0px;
+}
+
+header{
+	background-color: white;
+	text-align: center;
+	padding: 40px;
+}
+
+nav {
+	background: white;
+	color: black;
+	border-bottom: 1px solid #333333;
+	border-top: 1px solid #333333;	
+	font-weight: bold;
+	height: 30px;
+	padding: 10px;
+	text-align: right;
+	width: 100%;
+	margin-top: 10px;
+}
+
+ .card{
+	display: inline-block;
+	color: white;
+	text-align: justify;
+	width: 30%;
+	padding: 20px;
+	margin-top: 30px;
+}
+
+img{
+	width: 100%;
+}
+
+form, footer{
+	padding: 20px;
+}
+
+footer{
+	text-align: center;
+}
+
+h3{
+	color: white;
+}
