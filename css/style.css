@@ -1,5 +1,5 @@
 body{
-	background-image: url("../img/hatter.jpg");
+	background: #93546d;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -13,6 +13,10 @@ header{
 	padding: 30px;
 }
 
+a {
+	color: white;
+}
+
 nav {
 	background: #475e5d;
 	color: black;
@@ -22,7 +26,6 @@ nav {
 	height: 30px;
 	padding: 10px;
 	text-align: center;
-	width: 100%;
 	margin: 0px;
 }
 
